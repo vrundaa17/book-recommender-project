@@ -92,7 +92,7 @@ book-recommendation-system/
 ## **Notebooks & Code**
 
 ### **Notebooks**
-- [Notebook](notebook/notebook/book-recommendation.ipynb) 
+- [Notebook](notebook/book-recommendation.ipynb) 
 
 
 ### **Source Code**

@@ -97,8 +97,7 @@ book-recommendation-system/
 
 ### **Source Code**
 - [Flask App](app.py)  
-- [HTML Templates](templates/)  
-- [CSS / Static Files](static/)  
+- [HTML Templates](templates/)   
 - Optional scripts:
   - [Recommendation Functions](src/recommendation.py)
 

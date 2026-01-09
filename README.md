@@ -45,7 +45,8 @@ book-recommendation-system/
 │
 ├─ dataset/                                         # Original datasets  
 ├─ notebooks/                                       # Jupyter notebooks for EDA and modeling  
-├─ app.py                                           # Flask web application  
+├─ app.py                                           # Flask web application
+├─ graphs/                                          # Graph plots 
 ├─ src/                                             # Python scripts for preprocessing and recommendation functions  
 ├─ templates/                                       # HTML templates  
 ├─ screenshots/                                     # Screenshots of the web app and visualizations  
@@ -58,16 +59,16 @@ book-recommendation-system/
 ## **Visualizations**
 
 ### **1. Top Publishers**
-![Top Publishers](screenshots/publisher.png)
+![Top Publishers](graphs/publisher.png)
 
 ### **2. Review Analysis**
-![Review Analysis](screenshots/reviews.png)
+![Review Analysis](graphs/reviews.png)
 
 ### **3. Popular Authors**
-![Popular Authors](screenshots/author.png)
+![Popular Authors](graphs/author.png)
 
 ### **4. Have people stoped publishing books?**
-![Have people stoped publishing books?](screenshots/year.png)
+![Have people stoped publishing books?](graphs/year.png)
 
 ---
 

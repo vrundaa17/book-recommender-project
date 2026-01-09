@@ -1,0 +1,2 @@
+dataset/Books.csv filter=lfs diff=lfs merge=lfs -text
+model/book.pkl filter=lfs diff=lfs merge=lfs -text

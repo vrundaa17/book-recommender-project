@@ -1,4 +1,4 @@
-# ❤️ Book Recommendation System
+# Book Recommendation System
 
 A complete **Book Recommendation System** that suggests books based on popularity and user preferences. This project includes **data cleaning, preprocessing, exploratory data analysis, modeling with collaborative filtering, and deployment** through a Flask web application.
 

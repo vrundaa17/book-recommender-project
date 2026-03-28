@@ -67,7 +67,7 @@ book-recommendation-system/
 ### **3. Popular Authors**
 ![Popular Authors](graphs/author.png)
 
-### **4. Have people stoped publishing books?**
+### **4. Have people stopped publishing books?**
 ![Have people stoped publishing books?](graphs/year.png)
 
 ---
